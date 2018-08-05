@@ -1,0 +1,7 @@
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\bin\Debug\FacturacionLaMelma.exe.config
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\bin\Debug\FacturacionLaMelma.exe
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\bin\Debug\FacturacionLaMelma.pdb
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\obj\Debug\FacturacionLaMelma.csprojResolveAssemblyReference.cache
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\obj\Debug\FacturacionLaMelma.csproj.CoreCompileInputs.cache
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\obj\Debug\FacturacionLaMelma.exe
+C:\.net projects\FacturacionLaMelma\FacturacionLaMelma\obj\Debug\FacturacionLaMelma.pdb
